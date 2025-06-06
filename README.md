@@ -14,7 +14,6 @@ Planeamento e execução de um de Sistema de Base de Dados (SBD) para uma empres
 Para povoar a base de dados, pode utilizar o [script](povoamento.py) que usa os dados na pasta `Population`.
 
 ```console
-$ cd BD
 $ python povoamento.py
 ```
 
@@ -34,6 +33,5 @@ Planning and execution of a Database System (DBS) for a vehicle rental company. 
 To populate the database, you can use the [script](povoamento.py) that uses the data in the `Population` folder.
 
 ```console
-$ cd BD
 $ python povoamento.py
 ```
