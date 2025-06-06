@@ -12,7 +12,7 @@ Planeamento e execução de um de Sistema de Base de Dados (SBD) para uma empres
 * [JoaoRodrigues04](https://github.com/JoaoRodrigues04)
 
 # BD (Databases) (English)
-Planning and execution of a Database System (DBS) for a vehicle rental company. You can consult the main evaluation object, the [relatório](Relatorio-BD-Final.pdf) of the project.
+Planning and execution of a Database System (DBS) for a vehicle rental company. You can consult the main evaluation object, the [report](Relatorio-BD-Final.pdf) of the project.
 
 ### Final Grade: ?? / 20 ⭐️
 
