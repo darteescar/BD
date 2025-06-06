@@ -1,5 +1,5 @@
 # BD (Bases de Dados) (Português)
-Planeamento e execução de um de Sistema de Base de Dados (SBD) para uma empresa de aluguer de veículos. Pode consultar o principal objeto da avaliação, o [relatório](Relatorio-BD-Final.pdf) do projeto.
+Planeamento e execução de um de Sistema de Base de Dados (SBD) para uma empresa de aluguer de veículos. Pode consultar o principal objeto da avaliação, o [relatório](Relatorio-BD-Final.pdf) do projeto. É possível popular a base de dados com o [script](povoamento.py) que usa os dados na pasta 'Population'.
 
 ### Nota Final: ?? / 20 ⭐️
 
@@ -11,7 +11,7 @@ Planeamento e execução de um de Sistema de Base de Dados (SBD) para uma empres
 * [JoaoRodrigues04](https://github.com/JoaoRodrigues04)
 
 # BD (Databases) (English)
-Planning and execution of a Database System (DBS) for a vehicle rental company. You can consult the main evaluation object, the [report](Relatorio-BD-Final.pdf) of the project.
+Planning and execution of a Database System (DBS) for a vehicle rental company. You can consult the main evaluation object, the [report](Relatorio-BD-Final.pdf) of the project. It's possible to populate the database with the [script](povoamento.py) that uses the data in the 'Population' folder.
 
 ### Final Grade: ?? / 20 ⭐️
 
